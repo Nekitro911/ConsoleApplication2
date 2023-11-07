@@ -42,3 +42,4 @@ int main() {
 	cout << "Sorted array: \n";
 	printArray(arr, n);
 }
+ 
