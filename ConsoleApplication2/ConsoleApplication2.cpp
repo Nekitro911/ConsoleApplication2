@@ -27,7 +27,6 @@ void heapSort(int arr[], int n) {
 		heapify(arr, i, 0);
 	}
 }
-
 void printArray(int arr[], int n) {
 	for (int i = 0; i < n; ++i)
 		cout << arr[i] << " ";
